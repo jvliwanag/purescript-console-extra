@@ -81,3 +81,7 @@ log' [ unsafeToForeign "Uh oh"
 
 Alternatively, the library also offers `log2` and `log3` variations to
 conveniently call `log'` for 2 and 3 arguments repsectively.
+
+``` purescript
+log2 "Uh oh" someError
+```
