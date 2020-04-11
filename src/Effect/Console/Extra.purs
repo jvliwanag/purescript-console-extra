@@ -4,10 +4,16 @@ module Effect.Console.Extra
   , log3
   , log'
   , warn
+  , warn2
+  , warn3
   , warn'
   , error
+  , error2
+  , error3
   , error'
   , info
+  , info2
+  , info3
   , info'
   , table
   , module C
