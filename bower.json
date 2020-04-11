@@ -12,5 +12,9 @@
     "purescript-foreign": "^5.0.0",
     "purescript-effect": "^2.0.1",
     "purescript-console": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvliwanag/purescript-console-extra.git"
   }
 }
