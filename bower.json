@@ -1,0 +1,16 @@
+{
+  "name": "purescript-console-extra",
+  "homepage": "https://github.com/jvliwanag/purescript-console-extra",
+  "authors": [
+    "Jan Vincent Liwanag <jvliwanag@gmail.com>"
+  ],
+  "description": "Unconstrained Access to JS Console",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "purescript-prelude": "^4.1.1",
+    "purescript-foreign": "^5.0.0",
+    "purescript-effect": "^2.0.1",
+    "purescript-console": "^4.4.0"
+  }
+}
